@@ -1,4 +1,4 @@
-# Gyaru Dating Battle: Toxic Love 2007
+# Gyaru Dating Battle
 
 **GitHub description:** C++/SFML rhythm dating battle with MVC architecture, SOLID-based class design, and Doxygen documentation.
 
